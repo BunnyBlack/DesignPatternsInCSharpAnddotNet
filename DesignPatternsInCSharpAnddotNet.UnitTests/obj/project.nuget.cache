@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TChMPjWkFGdNakCo/Nco4aGLZxtdzVcHHqgvNEssP1HscA4uSoQNgVNDC6ioYZa/tvVjoYaqjzUh+qJJV2xJlg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\DesignPatternsInCSharpAnddotNet\\DesignPatternsInCSharpAnddotNet.UnitTests\\DesignPatternsInCSharpAnddotNet.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qw\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\qw\\.nuget\\packages\\moq\\4.15.2\\moq.4.15.2.nupkg.sha512",
+    "C:\\Users\\qw\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\qw\\.nuget\\packages\\nunit3testadapter\\4.0.0-beta.1\\nunit3testadapter.4.0.0-beta.1.nupkg.sha512",
+    "C:\\Users\\qw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\qw\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

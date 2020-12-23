@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C# Projects\\DesignPatternsInCSharpAnddotNet\\DesignPatternsInCSharpAnddotNet.UnitTests\\DesignPatternsInCSharpAnddotNet.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\C# Projects\\DesignPatternsInCSharpAnddotNet\\DesignPatternsInCSharpAnddotNet.UnitTests\\DesignPatternsInCSharpAnddotNet.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\DesignPatternsInCSharpAnddotNet\\DesignPatternsInCSharpAnddotNet.UnitTests\\DesignPatternsInCSharpAnddotNet.UnitTests.csproj",
+        "projectName": "DesignPatternsInCSharpAnddotNet.UnitTests",
+        "projectPath": "D:\\C# Projects\\DesignPatternsInCSharpAnddotNet\\DesignPatternsInCSharpAnddotNet.UnitTests\\DesignPatternsInCSharpAnddotNet.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\qw\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\DesignPatternsInCSharpAnddotNet\\DesignPatternsInCSharpAnddotNet.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\qw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.15.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0-beta.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
