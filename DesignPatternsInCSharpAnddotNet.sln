@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInCSharpAnddotNet", "DesignPatternsInCSharpAnddotNet\DesignPatternsInCSharpAnddotNet.csproj", "{A4BCBBE8-3007-46F5-9189-489BCFCCAD71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattersInCSharpAnddotNet.UnitTests", "DesignPattersInCSharpAnddotNet.UnitTests\DesignPattersInCSharpAnddotNet.UnitTests.csproj", "{B67A2F8E-4A22-4A7E-8CF1-5A927F4A65BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInCSharpAnddotNet.UnitTests", "DesignPatternsInCSharpAnddotNet.UnitTests\DesignPatternsInCSharpAnddotNet.UnitTests.csproj", "{DDE513F6-200A-46BC-AAF2-DCA533C06925}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{A4BCBBE8-3007-46F5-9189-489BCFCCAD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4BCBBE8-3007-46F5-9189-489BCFCCAD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4BCBBE8-3007-46F5-9189-489BCFCCAD71}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B67A2F8E-4A22-4A7E-8CF1-5A927F4A65BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B67A2F8E-4A22-4A7E-8CF1-5A927F4A65BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B67A2F8E-4A22-4A7E-8CF1-5A927F4A65BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B67A2F8E-4A22-4A7E-8CF1-5A927F4A65BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE513F6-200A-46BC-AAF2-DCA533C06925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE513F6-200A-46BC-AAF2-DCA533C06925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE513F6-200A-46BC-AAF2-DCA533C06925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE513F6-200A-46BC-AAF2-DCA533C06925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
