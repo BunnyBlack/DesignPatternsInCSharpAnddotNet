@@ -1,10 +1,9 @@
-﻿namespace DesignPatternsInCSharpAnddotNet
+﻿namespace DesignPattersInCSharpAnddotNet.UnitTests
 {
     internal class Program
     {
         public static void Main(string[] args)
         {
-            
         }
     }
 }
