@@ -6,25 +6,25 @@ namespace DesignPatternsInCSharpAnddotNet
 {
     public class Journal
     {
-        private readonly List<string> entries = new List<string>();
+        private readonly List<string> _entries = new List<string>();
 
-        private static int count = 0;
+        private static int _count = 0;
 
         public int AddEntry(string text)
         {
-            entries.Add($"{++count}: {text}");
-            return count;
+            _entries.Add($"{++_count}: {text}");
+            return _count;
         }
 
         public void RemoveEntry()
         {
-            entries.RemoveAt(count - 1);
-            count--;
+            _entries.RemoveAt(_count - 1);
+            _count--;
         }
 
         public override string ToString()
         {
-            return string.Join(Environment.NewLine, entries);
+            return string.Join(Environment.NewLine, _entries);
         }
     }
 }

@@ -38,10 +38,12 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="HtmlBuilder.cs" />
         <Compile Include="IFilter.cs" />
         <Compile Include="IMachine.cs" />
         <Compile Include="Journal.cs" />
         <Compile Include="Persistence.cs" />
+        <Compile Include="Person.cs" />
         <Compile Include="Product.cs" />
         <Compile Include="ProductFilter.cs" />
         <Compile Include="Program.cs" />

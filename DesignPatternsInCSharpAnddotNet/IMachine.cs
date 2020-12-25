@@ -17,11 +17,11 @@ namespace DesignPatternsInCSharpAnddotNet
         void Fax();
     }
 
-    public interface MultipleFunctionDevice : IScanner, IPrinter
+    public interface IMultipleFunctionDevice : IScanner, IPrinter
     {
     }
 
-    public class Photocopier : MultipleFunctionDevice
+    public class Photocopier : IMultipleFunctionDevice
     {
         private readonly IScanner _scanner;
         private readonly IPrinter _printer;
